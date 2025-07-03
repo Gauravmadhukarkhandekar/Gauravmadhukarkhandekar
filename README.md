@@ -1,6 +1,6 @@
 - 👋  I’m passionate about bringing the design to their exact look and functionality in development.
 - 👀 My hobbies are Astro/Macro photography, Music analysis and Gaming..
-- 🌱 I'm currently learning JQuery and Machine Learning.
+- 🌱 I'm currently learning AI and DSA.
 - 💞️ I Love tackling challanges and doing what people believe to be hard.
 
 <!---
