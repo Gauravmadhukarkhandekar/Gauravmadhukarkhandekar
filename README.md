@@ -24,4 +24,11 @@ I enjoy turning ideas and designs into reliable applications—from polished int
 [Beats of Washington](https://beatsofwa.org) · [AI Photo Search](https://beatsofwa.org/find-my-photos)
 
 
-![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,tailwind,nodejs,express,spring,fastapi,aws,dynamodb,mysql,mongodb,postgres,docker,git,githubactions,cmake)
+### 🛠️ Languages and Tools
+
+![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,angular,arduino,aws,azure,bash,blender,bootstrap,c,cpp,cs,css,dart,django,docker,dotnet,express,figma,firebase,flask,flutter,gcp,git,graphql,heroku,html,java,js,jenkins,kotlin,laravel,linux,matlab,mongodb,nodejs,opencv,ps,php,postman,python,pytorch,react,ruby,rust,sass,sklearn,spring,tailwind,tensorflow,ts,vue&perline=18)
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" />
+</p>
