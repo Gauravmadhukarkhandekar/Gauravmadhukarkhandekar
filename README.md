@@ -23,6 +23,16 @@ I enjoy turning ideas and designs into reliable applications—from polished int
 
 [Beats of Washington](https://beatsofwa.org) · [AI Photo Search](https://beatsofwa.org/find-my-photos)
 
+### Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/gaurav-khandekar-943743169/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
+  </a>
+  <a href="mailto:gauravkhandekar007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" />
+  </a>
+</p>
 
 ### 🛠️ Languages and Tools
 
