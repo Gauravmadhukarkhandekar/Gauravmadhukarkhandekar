@@ -22,3 +22,6 @@ I enjoy turning ideas and designs into reliable applications—from polished int
 ### 🌐 Featured Work
 
 [Beats of Washington](https://beatsofwa.org) · [AI Photo Search](https://beatsofwa.org/find-my-photos)
+
+
+![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,tailwind,nodejs,express,spring,fastapi,aws,dynamodb,mysql,mongodb,postgres,docker,git,githubactions,cmake)
